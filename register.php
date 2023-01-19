@@ -7,7 +7,7 @@
             <h3 class="text-white">ระบบลงทะเบียนสมัครสมาชิก</h3>
         </div>
         <div class="card-body">
-            <form action="code.php" method="post">
+            <form action="" method="post">
                 <div class="row d-flex justify-content-center">
                     <div class="col-md-6">
                         <div class="mb-3">
