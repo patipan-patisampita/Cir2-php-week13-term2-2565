@@ -22,18 +22,18 @@
             </a>
             <ul class="dropdown-menu">
 
-              <li><a class="dropdown-item" href="profile.php">ประวัติส่วนตัว</a></li>
+              <li><a class="dropdown-item" href="profile.php"><i class="bi bi-person-vcard"></i> ประวัติส่วนตัว</a></li>
               <li>
                 <hr class="dropdown-divider">
               </li>
-              <li><a class="dropdown-item" href="logout.php">ออกจากระบบ</a></li>
+              <li><a class="dropdown-item" href="logout.php"><i class="bi bi-box-arrow-right"></i> ออกจากระบบ</a></li>
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-white" href="register.php">ลงทะเบียน</a>
+            <a class="nav-link text-white" href="register.php"><i class="bi bi-stack"></i> ลงทะเบียน</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-white" href="login.php">เข้าสู่ระบบ</a>
+            <a class="nav-link text-white" href="login.php"><i class="bi bi-person-lock"></i> เข้าสู่ระบบ</a>
           </li>
         </ul>
       
