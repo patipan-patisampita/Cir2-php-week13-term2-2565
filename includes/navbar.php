@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg bg-body-white shadow stickeytop">
+<nav class="navbar navbar-expand-lg shadow stickeytop" style="background-color: #6E0EE8;">
     <div class="container">
       <!-- <a class="navbar-brand" href="index.php">DEVcat</a> -->
       <a class="navbar-brand" href="index.php">
@@ -11,29 +11,29 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="index.php">หน้าแรก</a>
+            <a class="nav-link active text-white" aria-current="page" href="index.php"><i class="bi bi-house-fill text-white"></i> หน้าแรก</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="about.php">เกี่ยวกับเรา</a>
+            <a class="nav-link text-white" href="about.php"><i class="bi bi-bank2 text-white"></i> เกี่ยวกับเรา</a>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Dropdown
+            <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <i class="bi bi-person-circle"></i> Dropdown
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Action</a></li>
-              <li><a class="dropdown-item" href="#">Another action</a></li>
+
+              <li><a class="dropdown-item" href="profile.php">ประวัติส่วนตัว</a></li>
               <li>
                 <hr class="dropdown-divider">
               </li>
-              <li><a class="dropdown-item" href="#">Something else here</a></li>
+              <li><a class="dropdown-item" href="logout.php">ออกจากระบบ</a></li>
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="register.php">ลงทะเบียน</a>
+            <a class="nav-link text-white" href="register.php">ลงทะเบียน</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="login.php">เข้าสู่ระบบ</a>
+            <a class="nav-link text-white" href="login.php">เข้าสู่ระบบ</a>
           </li>
         </ul>
       
