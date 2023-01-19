@@ -31,4 +31,5 @@
     </div>
 </div>
 
+<?php include_once("includes/script.php"); ?>
 <?php include_once("includes/footer.php"); ?>
